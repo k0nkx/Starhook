@@ -4,7 +4,7 @@
 
 
 
-local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/s-ane/starhook/main/starhookdrawinglib.lua"))();
+local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/k0nkx/Starhook/refs/heads/main/drawing.lua"))();
 
 wait(1)
 
